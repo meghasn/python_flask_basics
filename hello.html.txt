@@ -7,3 +7,5 @@
     {%end if %}
   </body>
 </html>
+
+#used by flask2.py
