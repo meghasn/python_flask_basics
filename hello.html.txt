@@ -1,0 +1,9 @@
+<html>
+  <body>
+    {% if mark>50 %}
+      <h1>pass</h1>
+    {%else%}
+      <h1>fail</h1>
+    {%end if %}
+  </body>
+</html>
